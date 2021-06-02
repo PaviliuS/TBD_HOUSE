@@ -1,0 +1,12 @@
+D:\Microsoft VS Projects\TBD_HOUSE\bin\Debug\Database_HOUSE.mdf
+D:\Microsoft VS Projects\TBD_HOUSE\bin\Debug\Database_HOUSE_log.ldf
+D:\Microsoft VS Projects\TBD_HOUSE\bin\Debug\TBD_HOUSE.exe.config
+D:\Microsoft VS Projects\TBD_HOUSE\bin\Debug\TBD_HOUSE.exe
+D:\Microsoft VS Projects\TBD_HOUSE\bin\Debug\TBD_HOUSE.pdb
+D:\Microsoft VS Projects\TBD_HOUSE\obj\Debug\TBD_HOUSE.csprojAssemblyReference.cache
+D:\Microsoft VS Projects\TBD_HOUSE\obj\Debug\TBD_HOUSE.Form1.resources
+D:\Microsoft VS Projects\TBD_HOUSE\obj\Debug\TBD_HOUSE.Properties.Resources.resources
+D:\Microsoft VS Projects\TBD_HOUSE\obj\Debug\TBD_HOUSE.csproj.GenerateResource.cache
+D:\Microsoft VS Projects\TBD_HOUSE\obj\Debug\TBD_HOUSE.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Projects\TBD_HOUSE\obj\Debug\TBD_HOUSE.exe
+D:\Microsoft VS Projects\TBD_HOUSE\obj\Debug\TBD_HOUSE.pdb
